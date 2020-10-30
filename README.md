@@ -1,7 +1,7 @@
 # MERN Stack - Realtime website ( chat, comments ... ) with MERN Stack and Socket.io 
 > Realtime website built with the MERN stack with React Context API for state management, pure CSS for style and Socket.io for realtime.
 
-## Demo: https://devat-mern-realtime.herokuapp.com/
+## Demo: https://mern-realtime.herokuapp.com/
 
 ## Author: Dev AT
 ## Youtube tutorials: https://youtu.be/l1UfCsimb8Y
