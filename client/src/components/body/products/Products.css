@@ -1,0 +1,11 @@
+.products_page{
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 400px));
+    justify-content: center;
+}
+.app_title{
+    text-align: center;
+    font-size: 2rem;
+    color: #555;
+    margin: 20px 0;
+}
