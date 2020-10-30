@@ -4,7 +4,7 @@
 ## Demo: https://mern-realtime.herokuapp.com/
 
 ## Author: Dev AT
-## Youtube tutorials: https://youtu.be/l1UfCsimb8Y
+## Youtube tutorials: https://youtu.be/tBKUxOdK5Q8
 
 ## Install dependencies for server 
 ### `npm install`
